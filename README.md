@@ -37,17 +37,21 @@ O Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) 
 
 A disciplina Desenvolvimento WEB aprofunda os conhecimentos acerca do desenvolvimento de aplicações web do lado cliente. Nela é aprofundada a linguagem JavaScript, apresentando as principais características e técnicas de desenvolvimento, permitindo o desenvolvimento de aplicações de fácil manutenção, eficientes, eficazes e organizadas, também é apresentando o conceito de Single Page Application, junto com os frameworks React e Angular para desenvolvimento de projetos
 
-## 💻 Projetos
+## 💻 Atividades
 
-Para acessar os repositórios com os códigos fonte dos projetos, basta clicar no link correspondente:
+Para acessar os repositórios com os códigos fonte das atividades, basta clicar no link correspondente:
 
-- [dev.finace$](https://github.com/Karimangfn/Desenvolvimento-Web-2/tree/main/Atividades/A2)
-- [Formulario](https://github.com/Karimangfn/Desenvolvimento-Web-2/tree/main/Atividades/A3)
-- [API Covid](https://github.com/F3RREIRA/DW2A4/tree/main/Atividades/4A)
-- [Introdução ao React - Parte 1](https://github.com/Karimangfn/Desenvolvimento-Web-2/tree/main/Atividades/A5)
-- [Introdução ao React - Parte 2](https://github.com/Karimangfn/Desenvolvimento-Web-2/tree/main/Atividades/A6)
-- [Testes Unitarios com Jest](https://github.com/Karimangfn/Desenvolvimento-Web-2/tree/main/Atividades/A7)
-- [Projeto Single Page Application - Site de Jogos (React)](https://github.com/Karimangfn/Desenvolvimento-Web-2/tree/main/Projeto-SPA)
+- [BubbleSort]()
+- [InsertionSort]()
+- [MergeSort]()
+- [QuickSort]()
+- [RadixSort]()
+- [SelectionSort]()
+- [Lista]()
+- [Fila]()
+- [Pilha]()
+- [Busca Binaria]()
+- [Busca Sequencial]()
 </p>
 
 
