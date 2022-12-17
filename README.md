@@ -35,7 +35,7 @@ O Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) 
 
 ## 📚 Disciplina
 
-A disciplina Desenvolvimento WEB aprofunda os conhecimentos acerca do desenvolvimento de aplicações web do lado cliente. Nela é aprofundada a linguagem JavaScript, apresentando as principais características e técnicas de desenvolvimento, permitindo o desenvolvimento de aplicações de fácil manutenção, eficientes, eficazes e organizadas, também é apresentando o conceito de Single Page Application, junto com os frameworks React e Angular para desenvolvimento de projetos
+A disciplina Estrutura de Dados aprofunda os conhecimentos acerca do desenvolvimento de algoritmos de ordenação, assim como a modelagem e a implementação de diferentes estruturas de dados. Nela é desenvolvido conhecimentos na linguagem de programação C, Porque a linguagem deixa a cargo do programador todas as operações necessárias para o gerenciamento das estruturas de dados e permite a manipulação de estruturas e ponteiros de maneira explícita
 
 ## 💻 Atividades
 
