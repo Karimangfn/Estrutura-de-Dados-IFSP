@@ -1,19 +1,11 @@
-## 💻 Projeto
+## 💻 Atividade
 
-O [dev.finance$](https://f3rreira.github.io/DW2A4/Atividades/A4/#1) é uma aplicação web de controle financeiro, onde é possível inserir e excluir transações, ver os saldos de entradas, saídas e atual.
+Criar um programa em C que demonstre o funcionamento da estrutura de dados Bubble Sort, onde o usuário ira escolher a quantidade de números ordenados e quais serão esses números
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido seguindo a Maratona Discover da [Rocketseat Education](https://www.rocketseat.com.br), ministrada pelo instrutor [Mayk Brito](https://github.com/maykbrito) utilizando as seguintes tecnologias:
+- C (Linguagem de Programação)
 
-- HTML
-- CSS
-- JavaScript
+## 👨‍💻 Bubble Sort
 
-## :art: Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :earth_americas: Publicação
-
-Você pode acessar a página [dev.finace$](https://f3rreira.github.io/DW2A4/Atividades/A4/#1) para testar a aplicação.
+O bubble sort, ou ordenação por flutuação (literalmente "por bolha"), é um algoritmo de ordenação dos mais simples. A ideia é percorrer o vetor diversas vezes, a cada passagem fazendo flutuar para o topo o maior elemento da sequência. Essa movimentação lembra a forma como as bolhas em um tanque de água procuram seu próprio nível, e disso vem o nome do algoritmo.
