@@ -41,17 +41,17 @@ A disciplina Desenvolvimento WEB aprofunda os conhecimentos acerca do desenvolvi
 
 Para acessar os repositórios com os códigos fonte das atividades, basta clicar no link correspondente:
 
-- [BubbleSort]()
-- [InsertionSort]()
-- [MergeSort]()
-- [QuickSort]()
-- [RadixSort]()
-- [SelectionSort]()
-- [Lista]()
-- [Fila]()
-- [Pilha]()
-- [Busca Binaria]()
-- [Busca Sequencial]()
+- [Bubble Sort](https://github.com/Karimangfn/Estrutura-de-Dados/tree/main/Atividades/Bubble%20Sort)
+- [Insertion Sort](https://github.com/Karimangfn/Estrutura-de-Dados/tree/main/Atividades/Insertion%20Sort)
+- [Merge Sort](https://github.com/Karimangfn/Estrutura-de-Dados/tree/main/Atividades/Merge%20Sort)
+- [Quick Sort](https://github.com/Karimangfn/Estrutura-de-Dados/tree/main/Atividades/Quick%20Sort)
+- [Radix Sort](https://github.com/Karimangfn/Estrutura-de-Dados/tree/main/Atividades/Radix%20Sort)
+- [Selection Sort](https://github.com/Karimangfn/Estrutura-de-Dados/tree/main/Atividades/Selection%20Sort)
+- [Lista](https://github.com/Karimangfn/Estrutura-de-Dados/tree/main/Atividades/Lista)
+- [Fila](https://github.com/Karimangfn/Estrutura-de-Dados/tree/main/Atividades/Fila)
+- [Pilha](https://github.com/Karimangfn/Estrutura-de-Dados/tree/main/Atividades/Pilha)
+- [Busca Binaria](https://github.com/Karimangfn/Estrutura-de-Dados/tree/main/Atividades/Busca%20Binaria)
+- [Busca Sequencial](https://github.com/Karimangfn/Estrutura-de-Dados/tree/main/Atividades/Busca%20Sequencial)
 </p>
 
 
