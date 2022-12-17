@@ -1,6 +1,6 @@
 ## 💻 Atividade
 
-Criar um programa em C que demonstre o funcionamento da estrutura de dados Merge Sort, onde o usuário ira escolher a quantidade de números ordenados e quais serão esses números
+Criar um programa em C que demonstre o funcionamento do Algoritmo de ordenação Merge Sort, onde o usuário ira escolher a quantidade de números ordenados e quais serão esses números
 
 ## 🚀 Tecnologias
 
