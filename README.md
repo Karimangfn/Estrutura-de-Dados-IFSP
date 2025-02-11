@@ -54,7 +54,38 @@ Para acessar os repositórios com os códigos fonte das atividades, basta clicar
 - [Busca Sequencial](https://github.com/Karimangfn/Estrutura-de-Dados/tree/main/Atividades/Busca%20Sequencial)
 </p>
 
+## ▶️ Como Executar Arquivos `.c`
 
+1. **Verifique se o GCC está instalado**:
+    ```bash
+    gcc --version
+    ```
+
+    - Se não estiver instalado:
+      - **Ubuntu/Debian**:  
+        ```bash
+        sudo apt install build-essential
+        ```
+      - **macOS**:  
+        ```bash
+        xcode-select --install
+        ```
+      - **Windows**: Instale MinGW ou Cygwin.
+
+2. **Compile o código**:
+    ```bash
+    gcc exemplo.c -o exemplo
+    ```
+
+3. **Execute o código**:
+    - **Linux/macOS**:
+      ```bash
+      ./exemplo
+      ```
+    - **Windows**:
+      ```bash
+      exemplo.exe
+      ```
 
 ## 🚀 Tecnologias
 
