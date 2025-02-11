@@ -54,7 +54,7 @@ Para acessar os repositórios com os códigos fonte das atividades, basta clicar
 - [Busca Sequencial](https://github.com/Karimangfn/Estrutura-de-Dados/tree/main/Atividades/Busca%20Sequencial)
 </p>
 
-## ▶️ Como Executar Arquivos `.c`
+## Como Executar Arquivos `.c`
 
 1. **Verifique se o GCC está instalado**:
     ```bash
